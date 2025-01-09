@@ -5,3 +5,4 @@ type=ethernet
 autoconnect-priority=-999
 interface-name=ens4
 now more checl
+new checl
