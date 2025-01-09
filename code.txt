@@ -4,3 +4,4 @@ uuid=1b3c9373-e0e7-3266-aecb-5feee7c79597
 type=ethernet
 autoconnect-priority=-999
 interface-name=ens4
+now more checl
